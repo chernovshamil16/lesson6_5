@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lesson6_5</string>
+    <string name="PLUS">+</string>
+    <string name="result">result</string>
+    <string name="MINUS">-</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="minus">minus</string>
+    <string name="plus">plus</string>
+</resources>
